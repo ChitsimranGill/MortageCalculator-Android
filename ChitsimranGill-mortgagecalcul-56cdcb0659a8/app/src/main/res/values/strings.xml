@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="Calc">Calculate</string>
+    <string name="years">15 years</string>
+    <string name="years2">20 years</string>
+    <string name="years3">30 years</string>
+    <string name="tax">taxes and insurance</string>
+    <string name="borrow">amount to be borrowed</string>
+</resources>
